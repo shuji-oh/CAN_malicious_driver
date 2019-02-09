@@ -13,7 +13,7 @@ $ make
 $ sudo insmod mcp251x.ko
 
 ## mcp251x_disabled_busoff
-This is the spi driver disabled busoff state for mcp2510, mcp2515.
+This is the spi driver which is disabled busoff state for mcp2510, mcp2515.
 
 ### build/install
 $ git clone https://github.com/ohirangosta/CAN_malicious_driver  
