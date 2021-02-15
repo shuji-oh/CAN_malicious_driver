@@ -3,7 +3,7 @@
 ## requirements
 `linux-headers-$(uname -r)`  
 or  
-`raspberrypi-kernel-headers`
+`raspberrypi-kernel-headers`  
 if you use raspbery pi, you can build the kernel headers by following URL.  
 https://github.com/RPi-Distro/rpi-source  
 
