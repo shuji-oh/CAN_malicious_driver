@@ -2,7 +2,9 @@
 
 ## requirements
 `linux-headers-$(uname -r)`  
-you can build the kernel headers by following URL.  
+or  
+`raspberrypi-kernel-headers`
+if you use raspbery pi, you can build the kernel headers by following URL.  
 https://github.com/RPi-Distro/rpi-source  
 
 ## mcp251x
