@@ -1,7 +1,7 @@
 # CAN_malicious_driver
 
 ## requirements
-linux-headers-$(uname -r)  
+`linux-headers-$(uname -r)`  
 you can build the kernel headers by following URL.  
 https://github.com/RPi-Distro/rpi-source  
 
